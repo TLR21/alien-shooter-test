@@ -1,0 +1,14 @@
+apiVersion: v2
+name: alien-shooter
+description: Helm chart for Alien Shooter game
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - game
+  - alien-shooter
+  - html5
+  - canvas
+maintainers:
+  - name: OpenCode Integration Test
+    email: test@opencode.ai
